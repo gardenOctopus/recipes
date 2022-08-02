@@ -1,0 +1,27 @@
+body {
+    background-color: #e4dce0ff;
+}
+
+h1 {
+    color: #4f4454ff;
+    font-family: Allura, script;
+    font-size: 108pt;
+    font-weight:100;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
