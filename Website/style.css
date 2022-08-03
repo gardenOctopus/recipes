@@ -14,14 +14,26 @@ h1 {
 img {
     height: 100px;
     width: 100px;
-    padding-left: 35px;
-    padding-right: 35px;
 }
 
-a {
+a:link {
     text-decoration: none;
+    font-family: Acre, sans-serif;
+    color: #4f4454ff;
+}
+
+a:hover {
+    color: black;
 }
 
 .center {
     text-align: center;
+}
+
+.imageContainer {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-left: 35px;
+    margin-right: 35px;
 }
