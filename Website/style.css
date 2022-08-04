@@ -37,3 +37,19 @@ a:hover {
     margin-left: 35px;
     margin-right: 35px;
 }
+
+.roll .on {
+    display: block;
+}
+
+.roll .off {
+    display: none;
+}
+
+.roll:hover .on {
+    display: none;
+}
+
+.roll:hover .off {
+    display: block;
+}
